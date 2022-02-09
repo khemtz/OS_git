@@ -1,0 +1,11 @@
+Hola, mi nombre es Carlos Hernandez
+
+Soy Ingeniero en Telecomunicaciones por la Universidad Anahuac de Oaxaca
+
+Tengo 39 años
+
+
+esc + i = Insertar o agregar texto
+esc = entrar en modo comandos
+esc + cw = cambiar palabra
+esc + x = borrar
