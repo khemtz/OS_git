@@ -1,11 +1,5 @@
-Hola, mi nombre es Carlos Hernandez
+Hola, mi nombre es Jorge Damián Domínguez Jiménez
 
-Soy Ingeniero en Telecomunicaciones por la Universidad Anahuac de Oaxaca
+Estudio la carrera de Ingeniería en Sistemas y Tecnologías de la información en la Universidad Anahuac de Oaxaca
 
-Tengo 39 años
-
-
-esc + i = Insertar o agregar texto
-esc = entrar en modo comandos
-esc + cw = cambiar palabra
-esc + x = borrar
+Tengo 24 años
